@@ -22,37 +22,19 @@
             }
           },
           {
-            "id": "ccffa7f8bab88c04",
+            "id": "da385199f5cf73fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-06-02 21.00.52.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "3eee94effe70789c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-02 21.00.52.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2025-06-02 21.00.52.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Drawing 2025-06-02 21.00.52.excalidraw"
             }
           },
           {
@@ -209,14 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9de72aa11e6c6b6e",
+  "active": "da385199f5cf73fa",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-06-02 21.00.52.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Untitled 1.md",
     "github.pub",
     "github",
-    "Untitled.md",
-    "Untitled.canvas",
     "Untitled 2.md",
-    "Untitled 1.md",
     "2024-11-10.md"
   ]
 }
